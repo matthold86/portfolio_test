@@ -1,0 +1,17 @@
+# Site title
+title = "Matthew Holden"
+base_url = "https://matthold86.github.io/portfolio_test"
+description = "New Portfolio Development Here"
+compile_sass = true
+
+[extra]
+header_links = [
+    {name = "Zola", url = "https://www.getzola.org/"},
+    {name = "GitHub", url = "https://github.com/matthold86"},
+    {name = "LinkedIn", url = "https://www.linkedin.com/in/matthew-holden86"}
+]
+license = "CC BY-NC 2.0"
+email = "matthew.holden@duke.edu"
+name = "Matthew Holden"
+template_name = 'Zola - Andromeda Theme'
+# favicon = "/images/favicon.ico"
